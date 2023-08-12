@@ -1,0 +1,112 @@
+img {
+    position: absolute;
+    top: 3%;
+    left: 6.5%;
+    width: 160px;
+    height: 160px;
+    border-radius: 5px;
+}
+
+h6 {
+    color: snow;
+    position: absolute;
+    top: 47%;
+    left: 6.5%;
+    font-family: JosefinSans;
+    font-weight: bolder;
+    font-size: 10.5px;
+}
+
+.container {
+    background-color: rgb(77, 102, 145);
+    height: 320px;
+    width: 185px;
+    border-radius: 8px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.text {
+    color: lightsteelblue;
+    position: absolute;
+    top: 61%;
+    left: 6%;
+    font-size: 9px;
+    font-family: JosefinSans;
+    font-weight: bolder;
+}
+
+.icon img {
+    width: 10px;
+    height: 9px;
+    position: absolute;
+    top: 71%;
+    left: 6%;
+}
+
+.text_2 {
+    color: turquoise;
+    position: absolute;
+    font-size: 8.5px;
+    font-family: JosefinSans;
+    font-weight: bolder;
+    top: 71%;
+    left: 12%;
+}
+
+.icon_2 img {
+    position: absolute;
+    top: 71%;
+    left: 60%;
+    width: 10px;
+    height: 10px;
+}
+
+.text_3 {
+    color: lightsteelblue;
+    position: absolute;
+    top: 71%;
+    left: 67%;
+    font-weight: bolder;
+    font-size: 8.5px;
+}
+
+.line {
+    width: 80%;
+    position: absolute;
+    top: 75.5%;
+    left: 8%;
+    height: 0.1%;
+    
+}
+
+.icon_3 img {
+    position: absolute;
+    height: 18px;
+    width: 18px;
+    top: 82%;
+    border: 1px solid white;
+    border-radius: 30px;
+}
+
+.text_4 {
+    color: lightsteelblue;
+    position: absolute;
+    top: 83.5%;
+    left: 21%;
+    font-family: JosefinSans;
+    font-size: 9px;
+    font-weight: bolder;
+}
+
+.text_5 {
+    color: aliceblue;
+    position: absolute;
+    top: 83.5%;
+    left: 46%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 9px;
+    font-weight: bolder;
+}
